@@ -12,28 +12,31 @@ Tässä tehtävässä laadin ISMS-soveltamisalan omalle kotiverkolleni/opiskelul
 
 | Perusinfra           | Laitteet kurssiharjoituksia varten | Tiedot     |
 | -----------------    | ----------------------             | -------    |  
-| ASUS-kotireititin    | Custom pöytäkone                   | Github     |
-|  Puhelin             | Kannettava tietokone               | Moodle     |
-|  Wi-Fi               |                                    | Onedrive   |
+|  ASUS-kotireititin   | Custom pöytäkone                   | Github     |
+|  Wi-Fi               | Kannettava tietokone               | Moodle     |
+|  Elisa Laajakaista   | Puhelin                            | Onedrive   |
 |                      |                                    | Authenthicator |
 
 Soveltamisalaani, tässä tapauksessa kotiverkkooni kuuluu:
 
-Asuksen kotireititin, johon on kytketty paikallisesti, sekä Wi-Fin välityksellä laitteita, kuten puhelimeni, pöytäkoneeni (Windows 10) ja HP läppäri (Windows 11).
-
-Kurssiharjoituksiin käytetään enimmäkseen pöytäkonetta, sillä siinä on eniten tehoa. Puhelinta tarvitsen koulun sivuille kirjautumiseen (Moodle).
-
+Kotiverkossa käytössä oma Asuksen kotireititin, johon on kytketty paikallisesti, sekä Wi-Fin välityksellä laitteita, kuten puhelimeni, pöytäkoneeni (Windows 10) ja HP läppäri (Windows 11).
+Kurssiharjoituksiin käytän enimmäkseen pöytäkonetta ja kannettavaa vain, kun teemme harjoituksia luokassa. Puhelinta, sekä Microsoft Authenticatoria tarvitsen kurssin Moodle-sivuille pääsyyn MFA-kirjautumisen avulla.
 Virtuaalikoneet ajetaan VMWaren Workstation Pro:lla. Käytössä tällä hetkellä on Debian 13 ja Kali Linux.
+Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään paikallisesti, sekä OneDrivessä. Raportit tallennetaan pilveen repositorioihini, joista ne linkataan Laksuun arvioitavaksi.
 
-Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään paikallisesti, sekä OneDrivessä. Raportit tallennetaan pilveen repositorioihini.
 
 ### 2. Out-of-scope
 
-Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos, koska laitteet eivät kuulu minulle.
+Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista on myös rajattu pois, sillä hallittavuus on palveluntarjoajan päässä.
 
-| Laite | Ulosrajauksen syyt |
+| Laite/Palvelu | Ulosrajauksen syy|
 | ----- | ------|
 | Chromecast | Merkityksetön |
-| Tyttöystävän PC | Omistajuus, hallittavuus |
-| Tyttöystävän puhelin | Omistajuus, hallittavuus |
+| Tyttöystävän PC | Omistajuus |
+| Tyttöystävän puhelin | Omistajuus |
 | Äly-tv | Merkityksetön |
+| Elisa mobiililaajakaista | Hallittavuus |
+
+### 3. Rajapinnat
+
+Kotiverkossa käytössä Elisa Internet-palveluntarjoajana.
