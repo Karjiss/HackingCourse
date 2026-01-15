@@ -14,7 +14,7 @@ Tässä tehtävässä laadin ISMS-soveltamisalan omalle kotiverkolleni/opiskelul
 | -----------------    | ----------------------             | -------    |  
 |  ASUS-kotireititin   | Custom pöytäkone                   | Github     |
 |  Wi-Fi               | Kannettava tietokone               | Moodle     |
-|  Elisa Laajakaista   | Puhelin                            | Onedrive   |
+|                      | Puhelin                            | Onedrive   |
 |                      |                                    | Authenthicator |
 
 Soveltamisalaani, tässä tapauksessa kotiverkkooni kuuluu:
@@ -27,7 +27,7 @@ Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään pai
 
 ### 2. Out-of-scope
 
-Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista on myös rajattu pois, sillä hallittavuus on palveluntarjoajan päässä.
+Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista on myös rajattu pois, sillä hallittavuus Internetissä on palveluntarjoajan päässä. Wi-Fin mahdollisuus kotiverkossa myös tekee mobiiliverkosta tässä tapauksessa (kotona tai koululla) merkityksettömän.
 
 | Laite/Palvelu | Ulosrajauksen syy|
 | ----- | ------|
