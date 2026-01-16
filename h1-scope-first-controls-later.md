@@ -26,7 +26,7 @@ Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään pai
 
 ### 2. Out-of-scope
 
-Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista on myös rajattu pois, sillä hallittavuus Internetissä on palveluntarjoajan päässä. Wi-Fin mahdollisuus kotiverkossa myös tekee mobiiliverkosta tässä tapauksessa (kotona tai koululla) merkityksettömän. Myös Moodle on rajattu pois, sillä en ole vastuussa, tai hallinnassa sen sisällöstä.
+Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityksettömiä kurssille. Tyttöystävän tietokoneen ja puhelimen rajasin ulos yksityisyyden takia, mutta myös, koska laitteet eivät kuulu minulle, eikä niille ole mitään tarvetta kurssin suorittamista varten. Mobiililaajakaista, sekä laajakaista on myös rajattu pois, sillä hallittavuus laajakaistoissa on palveluntarjoajan päässä. Wi-Fin mahdollisuus kotiverkossa myös tekee mobiiliverkosta tässä tapauksessa (kotona tai koululla) merkityksettömän. Myös Moodle on rajattu pois, sillä en ole vastuussa, tai hallinnassa sen sisällöstä. 
 
 | Laite/Palvelu | Ulosrajauksen syy|
 | ----- | ------ |
@@ -35,6 +35,7 @@ Rajasin soveltamisalalta ulos Äly-TV:n ja Chromecastin, sillä ne ovat merkityk
 | Tyttöystävän puhelin | Omistajuus |
 | Äly-tv | Merkityksetön |
 | Elisa mobiililaajakaista | Hallittavuus |
+| Elisa laajakaista | Hallittavuus |
 | Moodle | Hallittavuus |
 
 ### 3. Rajapinnat
