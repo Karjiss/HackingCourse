@@ -21,7 +21,7 @@ Soveltamisalaani, tässä tapauksessa kotiverkkooni kuuluu:
 Kotiverkossa käytössä oma Asuksen kotireititin, johon on kytketty paikallisesti, sekä Wi-Fin välityksellä laitteita, kuten puhelimeni, pöytäkoneeni (Windows 10) ja HP läppäri (Windows 11).
 Kurssiharjoituksiin käytän enimmäkseen pöytäkonetta ja kannettavaa vain, kun teemme harjoituksia luokassa. Puhelinta, sekä Microsoft Authenticatoria tarvitsen kurssin Moodle-sivuille pääsyyn MFA-kirjautumisen avulla.
 Virtuaalikoneet ajetaan VMWaren Workstation Pro:lla. Käytössä tällä hetkellä on Debian 13 ja Kali Linux.
-Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään paikallisesti, sekä OneDrivessä minun hallinoimana. Raportit tallennetaan pilveen repositorioihini, joista ne linkataan Laksuun arvioitavaksi.
+Muistiinpanoja, harjoitusaineistoja, sekä kurssimateriaaleja säilytetään paikallisesti, sekä OneDrivessä minun hallinnoimana. Raportit tallennetaan pilveen repositorioihini, joista ne linkataan Laksuun arvioitavaksi.
 
 
 ### 2. Out-of-scope
