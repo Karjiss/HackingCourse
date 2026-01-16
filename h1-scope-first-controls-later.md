@@ -48,7 +48,6 @@ Pilvipalveluita minun kotiverkkooni tarjoaa:
 | -----|----- |
 | Microsoft Onedrive | Tiedostojen säilytykseen |
 | Github | Kurssiraportteja varten tehtävien raporttien säilytys |
-| VMWare | Virtualisointi-sovellus virtuaalikoneita varten |
 | Moodle | Kurssin materiaalit |
 
 Muita toimittajia ovat:
