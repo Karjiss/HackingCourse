@@ -58,5 +58,5 @@ Muita toimittajia ovat:
 | Apple | Puhelimen valmistaja |
 | Hewlett Packard | Kannettavan tietokoneen valmistaja |
 | Asus | Kotireitittimen valmistaja |
-
+| Elisa | Internet-palveluntarjoaja |
 
