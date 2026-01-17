@@ -66,9 +66,10 @@ Muita toimittajia ovat:
 
 <img width="768" height="626" alt="image" src="https://github.com/user-attachments/assets/86db0623-798b-4e98-9e99-aa8160587ddf" />
 
-### Näyttö (Evidence)
+### Mitä näyttöä voisin esittää?
 
-Reitittimen palomuuriasetukset todistavat, että reititin pystyy pitämään uhkia poissa. (Kuva 1.)
+
+Reitittimen palomuuriasetukset todistavat, että reitittimellä on palomuuri käytössä, sekä ICMP echo pois käytöstä. (Kuva 1.)
 
 <img width="1007" height="865" alt="image" src="https://github.com/user-attachments/assets/62755d5a-5c7e-4876-b118-27ab37443f9f" />
 
@@ -83,3 +84,21 @@ Kotiverkon clientit (Poislukien chromecast, joka on harvoin päällä). (Kuva 3.
 VMWaren virtuaalikoneet. (Kuva 4.)
 
 <img width="426" height="97" alt="image" src="https://github.com/user-attachments/assets/20e8d0e7-aef1-4d5a-ba83-dcd28f27ba38" />
+
+## b) Sidotaan Standardiin
+
+Tässä tehtävässä loin taulukon, joka sitoo kotiverkkoni sidosryhmät ISO 27001 -standardiin:
+
+| Sidosryhmä | Tarve/Vaatimus | ISO27001 -viite | Näyttö |
+| ---------- | -------------- | --------------- | ------ |
+| Oppilaitos |  Lain ja sääntöjen mukaan toimiminen harjoitustyökalujen kanssa. | 4.2 (Sidosryhmien tarpeiden ja odotusten ymmärtäminen) | Hyväksytty kurssin säännöt |
+| Oppilaitos |  Harjoitukset on tehtynä ajallaan ja oikein. | 9.1 (Seuranta, mittaaminen, analysointi ja arviointi) | Tämä tehtävä, sekä tulevat tehtävät palautettuna |
+| Minä itse | Pyrin parantamaan labrani turvallisuutta kurssin edetessä. | 9.3 (Johdon katselmus) ja 10.2 (Jatkuva parantaminen) | Reitittimen lokitiedot ja kurssin dokumentaatio |
+
+## Lähteet
+
+Iso-Anttila, L & Karvinen, T. 2026. Sovellusten Hakkerointi ja Haavoittuvuudet - Kurssi. Luettavissa: https://terokarvinen.com/application-hacking/
+
+Iso-Anttila, L. & Karvinen, T. 2026. Standardit. Sovellusten hakkerointi ja haavoittuvuudet - Moodlen materiaalit. Haaga-Helia ammattikorkeakoulu. Luettu 14.1.2026.
+
+SFS-EN ISO/IEC 27001:2022. 2022. Tietoturva, kyberturvallisuus ja tietosuoja. Tietoturvan hallintajärjestelmät. Vaatimukset. Helsinki: Suomen Standardisoimisliitto SFS. Luettu 14.1.2026.
