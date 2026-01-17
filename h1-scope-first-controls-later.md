@@ -77,7 +77,7 @@ MFA-pyyntö kirjautuessa Moodleen. (Kuva 2.)
 
 <img width="950" height="626" alt="image" src="https://github.com/user-attachments/assets/2ef31fd0-47ce-4e4e-a23d-fe79e4a326f5" />
 
-Kotiverkon clientit (Poislukien chromecast, joka on harvoin päällä). (Kuva 3.)
+Kotiverkon clientit, MAC-osoitteet piilotettu. (Poislukien chromecast, joka on harvoin päällä). (Kuva 3.)
 
 <img width="522" height="601" alt="image" src="https://github.com/user-attachments/assets/2b9fea7c-c62a-4873-9c00-7a1722113b0c" />
 
