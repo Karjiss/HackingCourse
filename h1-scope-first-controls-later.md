@@ -101,4 +101,3 @@ Iso-Anttila, L & Karvinen, T. 2026. Sovellusten Hakkerointi ja Haavoittuvuudet -
 
 Iso-Anttila, L. & Karvinen, T. 2026. Standardit. Sovellusten hakkerointi ja haavoittuvuudet - Moodlen materiaalit. Haaga-Helia ammattikorkeakoulu. Luettu 15.1.2026.
 
-SFS-EN ISO/IEC 27001:2022. 2022. Tietoturva, kyberturvallisuus ja tietosuoja. Tietoturvan hallintajärjestelmät. Vaatimukset. Helsinki: Suomen Standardisoimisliitto SFS. Luettu 15.1.2026.
