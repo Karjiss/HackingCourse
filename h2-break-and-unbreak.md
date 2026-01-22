@@ -20,4 +20,20 @@
 ### Find Hidden Web Directories - Fuzz URLs with ffuf (Karvinen 2023)
 
 - Ffuf käyttää sanalistoja löytääkseen esimerkiksi piilotettuja sivuja palvelimelta.
-- Voit myös suodattaa pois ei haluttuja vastauksia, jotta löydät haluamasi vastauksen helpommin.
+- Voit myös tarkentaa hakua suodattamalla ei haluttuja vastauksia pois.
+
+### Portswigger - Access Control
+
+- Pääsynhallinnan (Access Control) suunnittelun päätökset on aina ihmisten tekemiä, joten virheiden mahdollisuus on suuri.
+- Pääsynhallintaa tehtäessä pitäisi aina auditoida ja testata toimivuus kunnolla.
+
+### Raportin kirjoittaminen (Karvinen 2006)
+
+ - Raportin tulee olla täsmällinen, toistettava sekä helppolukuinen.
+
+
+## a) Break into 010-staff-only
+
+Tässä tehtävässä murtaudutaan sovellukseen, sekä korjataan haavoittuvuus.
+
+Käytin apuna Karvisen artikkelia ["Hack'n Fix"](https://terokarvinen.com/hack-n-fix/) vuodelta 2014.
